@@ -1,0 +1,6 @@
+{
+  "name": "Hotel Swastik — Ultra Premium Hotel & Restaurant",
+  "description": "A refined Indian hospitality experience on Grand Trunk Road, Mohania, Bihar. Featuring deluxe rooms, premium dining, and an interactive Day & Night atmosphere.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
