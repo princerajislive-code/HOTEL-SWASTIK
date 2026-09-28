@@ -1,6 +1,6 @@
 import { ReviewItem, ExperienceItem, DayStageItem, GalleryItem } from '../types';
 
-import heroOriginalFacadeImg from '../assets/images/hero_swastik_facade_1790587672609.jpg';
+import heroFacadeImg from '../assets/images/regenerated_image_1790591337375.png';
 import heroDuskImg from '../assets/images/swastik_exterior_dusk_1790589776878.jpg';
 import deluxeRoomImg from '../assets/images/swastik_deluxe_room_1790587687761.jpg';
 import restaurantAmbienceImg from '../assets/images/swastik_restaurant_ambience_1790587699987.jpg';
@@ -9,7 +9,7 @@ import nightGlowImg from '../assets/images/swastik_night_glow_1790587725121.jpg'
 import lobbyLoungeImg from '../assets/images/regenerated_image_1790589972097.png';
 
 export const HOTEL_IMAGES = {
-  heroFacade: heroOriginalFacadeImg,
+  heroFacade: heroFacadeImg,
   heroDusk: heroDuskImg,
   deluxeRoom: deluxeRoomImg,
   restaurantAmbience: restaurantAmbienceImg,
@@ -105,7 +105,7 @@ export const SWASTIK_EXPERIENCES: ExperienceItem[] = [
     title: 'Connect',
     subtitle: 'Easy Access from Grand Trunk Road',
     description: 'Prime arterial positioning on NH-19 (GT Road) in Mohania, providing direct vehicular access, spacious parking, and effortless onward transit.',
-    image: heroOriginalFacadeImg,
+    image: heroFacadeImg,
     altText: 'Hotel Swastik facade on Grand Trunk Road Mohania',
   },
 ];
@@ -117,7 +117,7 @@ export const DAY_STAGES: DayStageItem[] = [
     timeRange: '06:00 AM – 11:00 AM',
     title: 'A Calm Beginning',
     description: 'Golden morning light breaks over Grand Trunk Road. Hot spiced tea, warm breakfast, and a quiet, refreshing start to your journey.',
-    image: heroOriginalFacadeImg,
+    image: heroFacadeImg,
     ambience: 'Crisp morning air, fresh chai, daylight glow',
   },
   {
@@ -193,7 +193,7 @@ export const GALLERY_ITEMS: GalleryItem[] = [
     id: 'gal-1',
     title: 'Hotel Swastik Facade',
     category: 'exterior',
-    image: heroOriginalFacadeImg,
+    image: heroFacadeImg,
     caption: 'Prominently situated on Grand Trunk Road in Mohania, Bihar.',
   },
   {
