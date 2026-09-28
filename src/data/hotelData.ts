@@ -6,7 +6,7 @@ import deluxeRoomImg from '../assets/images/swastik_deluxe_room_1790587687761.jp
 import restaurantAmbienceImg from '../assets/images/swastik_restaurant_ambience_1790587699987.jpg';
 import diningCuisineImg from '../assets/images/swastik_dining_cuisine_1790587712938.jpg';
 import nightGlowImg from '../assets/images/swastik_night_glow_1790587725121.jpg';
-import lobbyLoungeImg from '../assets/images/regenerated_image_1790589972097.png';
+import lobbyLoungeImg from '../assets/images/swastik_lobby_lounge_1790589793312.jpg';
 
 export const HOTEL_IMAGES = {
   heroFacade: heroFacadeImg,
